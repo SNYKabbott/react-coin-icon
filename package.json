@@ -41,7 +41,7 @@
     "prettier": "^2.0.1"
   },
   "dependencies": {
-    "@svgr/cli": "^4.3.0",
+    "@svgr/cli": "^7.0.0",
     "react-primitives": "^0.8.1"
   }
 }
